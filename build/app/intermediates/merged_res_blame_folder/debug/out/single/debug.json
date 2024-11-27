@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-night_launch_background.xml.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-night/launch_background.xml"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-anydpi-v26_launcher_icon.xml.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-anydpi-v26/launcher_icon.xml"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/xml_network_security_config.xml.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.douyin_downloader.app-merged_res-11:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.douyin_downloader.app-main-5:/drawable-mdpi/ic_launcher_foreground.png"
+    }
+]

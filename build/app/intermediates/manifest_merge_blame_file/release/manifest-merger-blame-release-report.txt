@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.douyin_downloader"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:2:5-66
+11-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:2:22-64
+12    <uses-permission
+12-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:3:5-4:37
+13        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+13-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:3:22-78
+14        android:maxSdkVersion="32" />
+14-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:4:9-35
+15    <uses-permission
+15-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:5:5-6:37
+16        android:name="android.permission.READ_EXTERNAL_STORAGE"
+16-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:5:22-77
+17        android:maxSdkVersion="32" />
+17-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:6:9-35
+18    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+18-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:7:5-74
+18-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:7:22-72
+19
+20    <queries>
+20-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:35:5-40:15
+21        <intent>
+21-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:36:9-39:18
+22            <action android:name="android.intent.action.PROCESS_TEXT" />
+22-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:37:13-72
+22-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:37:21-70
+23
+24            <data android:mimeType="text/plain" />
+24-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:38:13-50
+24-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:38:19-48
+25        </intent>
+26    </queries>
+27
+28    <application
+29        android:name="android.app.Application"
+29-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:10:9-42
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.6.0] C:\Users\asuna\.gradle\caches\transforms-3\13b99ae8a01b607162131804fe0199df\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+31        android:icon="@mipmap/launcher_icon"
+31-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:11:9-45
+32        android:label="视频下载"
+32-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:9:9-29
+33        android:networkSecurityConfig="@xml/network_security_config"
+33-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:12:9-69
+34        android:requestLegacyExternalStorage="true" >
+34-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:13:9-52
+35        <activity
+35-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:14:9-30:20
+36            android:name="com.example.douyin_downloader.MainActivity"
+36-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:15:13-41
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:19:13-163
+38            android:exported="true"
+38-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:16:13-36
+39            android:hardwareAccelerated="true"
+39-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:20:13-47
+40            android:launchMode="singleTop"
+40-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:17:13-43
+41            android:screenOrientation="portrait"
+41-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:22:13-49
+42            android:theme="@style/LaunchTheme"
+42-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:18:13-47
+43            android:windowSoftInputMode="adjustResize" >
+43-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:21:13-55
+44            <meta-data
+44-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:23:13-25:57
+45                android:name="io.flutter.embedding.android.NormalTheme"
+45-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:24:17-72
+46                android:resource="@style/NormalTheme" />
+46-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:25:17-54
+47
+48            <intent-filter>
+48-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:26:13-29:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:27:17-68
+49-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:27:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:28:17-76
+51-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:28:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <meta-data
+55-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:31:9-33:33
+56            android:name="flutterEmbedding"
+56-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:32:13-44
+57            android:value="2" />
+57-->E:\flutter_project\douyin_downloader\android\app\src\main\AndroidManifest.xml:33:13-30
+58
+59        <uses-library
+59-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+60            android:name="androidx.window.extensions"
+60-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+61            android:required="false" />
+61-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+62        <uses-library
+62-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+63            android:name="androidx.window.sidecar"
+63-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+64            android:required="false" />
+64-->[androidx.window:window:1.0.0-beta04] C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+65    </application>
+66
+67</manifest>

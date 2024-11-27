@@ -1,0 +1,4 @@
+#Wed Nov 27 18:54:19 CST 2024
+base.0=E\:\\flutter_project\\douyin_downloader\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

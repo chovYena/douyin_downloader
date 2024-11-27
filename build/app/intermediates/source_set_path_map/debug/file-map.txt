@@ -1,0 +1,15 @@
+com.example.douyin_downloader.app-core-1.6.0-0 C:\Users\asuna\.gradle\caches\transforms-3\13b99ae8a01b607162131804fe0199df\transformed\core-1.6.0\res
+com.example.douyin_downloader.app-jetified-annotation-experimental-1.1.0-1 C:\Users\asuna\.gradle\caches\transforms-3\1659c08c41922602793c6edac261dd37\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.douyin_downloader.app-jetified-window-java-1.0.0-beta04-2 C:\Users\asuna\.gradle\caches\transforms-3\47cc8a33b8a3be2bef8ce519e57a513a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.douyin_downloader.app-jetified-window-1.0.0-beta04-3 C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\res
+com.example.douyin_downloader.app-debug-4 E:\flutter_project\douyin_downloader\android\app\src\debug\res
+com.example.douyin_downloader.app-main-5 E:\flutter_project\douyin_downloader\android\app\src\main\res
+com.example.douyin_downloader.app-pngs-6 E:\flutter_project\douyin_downloader\build\app\generated\res\pngs\debug
+com.example.douyin_downloader.app-resValues-7 E:\flutter_project\douyin_downloader\build\app\generated\res\resValues\debug
+com.example.douyin_downloader.app-rs-8 E:\flutter_project\douyin_downloader\build\app\generated\res\rs\debug
+com.example.douyin_downloader.app-mergeDebugResources-9 E:\flutter_project\douyin_downloader\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.douyin_downloader.app-mergeDebugResources-10 E:\flutter_project\douyin_downloader\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.douyin_downloader.app-merged_res-11 E:\flutter_project\douyin_downloader\build\app\intermediates\merged_res\debug
+com.example.douyin_downloader.app-packaged_res-12 E:\flutter_project\douyin_downloader\build\device_info_plus\intermediates\packaged_res\debug
+com.example.douyin_downloader.app-packaged_res-13 E:\flutter_project\douyin_downloader\build\path_provider_android\intermediates\packaged_res\debug
+com.example.douyin_downloader.app-packaged_res-14 E:\flutter_project\douyin_downloader\build\permission_handler_android\intermediates\packaged_res\debug

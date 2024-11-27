@@ -1,0 +1,12 @@
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-0 C:\Users\asuna\.gradle\caches\transforms-3\13b99ae8a01b607162131804fe0199df\transformed\core-1.6.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-1 C:\Users\asuna\.gradle\caches\transforms-3\1659c08c41922602793c6edac261dd37\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-2 C:\Users\asuna\.gradle\caches\transforms-3\47cc8a33b8a3be2bef8ce519e57a513a\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-3 C:\Users\asuna\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-main-4 C:\Users\asuna\AppData\Local\Pub\Cache\hosted\pub.flutter-io.cn\permission_handler_android-12.0.13\android\src\main\res
+com.baseflow.permissionhandler.permission_handler_android-release-5 C:\Users\asuna\AppData\Local\Pub\Cache\hosted\pub.flutter-io.cn\permission_handler_android-12.0.13\android\src\release\res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 E:\flutter_project\douyin_downloader\build\permission_handler_android\generated\res\pngs\release
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 E:\flutter_project\douyin_downloader\build\permission_handler_android\generated\res\resValues\release
+com.baseflow.permissionhandler.permission_handler_android-rs-8 E:\flutter_project\douyin_downloader\build\permission_handler_android\generated\res\rs\release
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-9 E:\flutter_project\douyin_downloader\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-10 E:\flutter_project\douyin_downloader\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-merged_res-11 E:\flutter_project\douyin_downloader\build\permission_handler_android\intermediates\merged_res\release
